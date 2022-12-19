@@ -98,6 +98,13 @@ h2{
     text-align: right;
 }
 
+#Work{
+    padding-right:50px;
+}
+
+#About-Me{
+    padding-right: 40px;
+}
 
 .work-content{
     display:flex;
@@ -112,7 +119,7 @@ h2{
 
 .showcase section{
     /* flex: 0 0 400px; */
-    margin-left: 20px;
+    margin-left: 10px;
     margin-bottom: 5px;
 }
 
@@ -128,8 +135,8 @@ h2{
 }
 
 .showcase img{
-    width:400px;
-    height: 270px;
+    width:380px;
+    height: 260px;
     padding:0 10px 0 10px;
     margin-bottom: 20px;
     opacity: 0.2;
